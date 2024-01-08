@@ -1,0 +1,11 @@
+
+.myContainer {
+  min-height: 100vh;
+  /* max-height: calc(100vh - (headerHeight + footerHeight)); */
+  width: 100vw;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  overflow-y: auto;
+}

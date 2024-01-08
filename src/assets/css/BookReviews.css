@@ -1,0 +1,37 @@
+.reviews-container {
+    /* margin: 20px;
+    padding: 10px; */
+    /* border: 1px solid #ccc;
+    border-radius: 5px; */
+  }
+  
+  .reviews-title {
+    font-size: 1.5rem;
+    margin-bottom: 10px;
+  }
+  
+  .review-item {
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    padding: 10px;
+    margin-bottom: 10px;
+  }
+  
+  .review-rating {
+    font-weight: bold;
+  }
+  
+  .no-reviews {
+    margin: 20px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #f7f7f7;
+    text-align: center;
+  }
+  
+  .review-loading {
+    text-align: center;
+    font-style: italic;
+  }
+  
